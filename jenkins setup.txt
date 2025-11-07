@@ -16,6 +16,7 @@ sudo systemctl start jenkins
 
 sudo systemctl status jenkins
 
-sudo dnf install git -y
+sudo dnf install git 
+
 
 
