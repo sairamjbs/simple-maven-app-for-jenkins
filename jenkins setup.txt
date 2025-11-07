@@ -15,5 +15,6 @@ sudo systemctl enable Jenkins
 sudo systemctl start jenkins
 
 sudo systemctl status jenkins
-hi test
+
+
 
